@@ -1,4 +1,4 @@
-![](https://github.com/cocktail-bar-test/img-explain.gif)
+![](https://github.com/ammaramame/cocktail-bar-test/blob/main/img-explain.gif)
 
 ## Available Scripts
 
